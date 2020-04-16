@@ -52,17 +52,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/deploy/img/secion-3/grid-bot.png": {
-		"ft": 32768,
-		"iS": 258892,
-		"oA": 0,
-		"oAP": "/deploy/img/secion-3/grid-bot.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/deploy/img/section-1/hero.jpg": {
 		"ft": 16384,
 		"iS": 337746,
@@ -83,6 +72,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/deploy/img/section-3/grid-bot.png": {
+		"ft": 32768,
+		"iS": 258892,
+		"oA": 0,
+		"oAP": "/deploy/img/section-3/grid-bot.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/deploy/img/section-4/hero.png": {
